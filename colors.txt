@@ -1,0 +1,14 @@
+Subtle Black:
+1. rgba(33,37, 41, 1);
+2. #1f2937
+
+subtle White: 
+1. #E6E6FA
+ 
+subtle Grey: 
+1. #E5E7EB
+
+Gadients: 
+1. #F67A5C
+2. #F49854
+3. #F89B29
