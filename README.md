@@ -11,7 +11,7 @@ Directions:
 
 How to edit the Website:
 
-! To See Results Ctrl+s/save and refresh the page !
+! To See Results Ctrl+s/save and refresh the page ! Also dont forget to edit the title to your own name (inside &lt;Title&gt; &tl;/Title&gt;)
 
 * open the .html file in a text editor or preferably vscode (open in notepad by going to notepad and open file)
 
