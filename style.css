@@ -4,7 +4,7 @@ body{
     height: 100%;
     margin: 0;
     background-size: 150%;
-    animation: backgroundAn 20s infinite alternate;
+    animation: backgroundAn 15s infinite alternate;
 }
 
 @keyframes backgroundAn {
