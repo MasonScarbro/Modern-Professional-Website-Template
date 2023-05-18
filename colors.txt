@@ -1,14 +1,23 @@
 Subtle Black:
 1. rgba(33,37, 41, 1);
 2. #1f2937
+3. #2F2F2F
+4. #523249 <-- Violet/Black (dont copy this)
+5. #3C362A
+6. #424B54
 
 subtle White: 
 1. #E6E6FA
+2. #F3F9D2
+
  
 subtle Grey: 
 1. #E5E7EB
+2. #B9E3C6
 
 Gadients: 
 1. #F67A5C
 2. #F49854
 3. #F89B29
+4. #FFF95B
+5. #E927F7
