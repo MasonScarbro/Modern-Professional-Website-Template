@@ -51,8 +51,44 @@ body{
     color: white;
     height: 100px;
     box-shadow: 0px 0px 2px black;
+} 
+/* EDITS THE BUTTON */
+.link1 {
+    border-radius: 20px;
+    margin-bottom: 3px;
+    border: none;
+    padding: 10px 20px;
+    background-color: whitesmoke;
+    text-align: center;
+    text-decoration: none;
+    transition: ease-out 0.3s;
+    box-shadow: 0px 0px 2px black;
+}
+/* EDITS THE HOVERING OF THE BUTTON, SAME GOES FOR LINK2 */
+.link1:hover {
+    box-shadow: inset 200px 0 0 0 rgba(12, 182, 12, 0.884);
+    cursor: pointer;
+    color: #E6E6FA;
 }
 
+.link2 {
+    border-radius: 20px;
+    margin-bottom: 3px;
+    margin-left: 10px;
+    border: none;
+    padding: 10px 20px;
+    background-color: whitesmoke;
+    text-align: center;
+    text-decoration: none;
+    transition: ease-out 0.3s;
+    box-shadow: 0px 0px 2px black;
+}
+.link2:hover {
+    box-shadow: inset 200px 0 0 0 #0a66c2;
+    cursor: pointer;
+    color: #E6E6FA;
+}
+/* IF YOU CREATE A NEW LINK COPY AND PASTE BOTH THE LINK2 AND CONTENTS OF .link2:hover AND CHANGE LINK # ACCORDINGLY */
 .onetomanyboxe {
     justify-content: center;
     flex-direction: row;
